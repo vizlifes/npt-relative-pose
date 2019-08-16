@@ -1,3 +1,6 @@
 *.asv
 backup/
+helpers/opengv.mexa64
+helpers/opengv.mexmaci64
+helpers/opengv.mexw64
 third_party/
